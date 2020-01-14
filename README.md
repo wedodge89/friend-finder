@@ -1,2 +1,3 @@
 # friend-finder
-Friend Finder app
+Who's Your Buddy?
+
